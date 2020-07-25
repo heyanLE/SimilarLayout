@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimilarLayout">
+        <attr name="similar_view_id" format="integer"/>
+        <attr name="similar_scrollable_id" format="integer"/>
+        <attr name="similar_bottom_y" format="dimension"/>
+        <attr name="similar_center_y" format="dimension"/>
+    </declare-styleable>
+</resources>
